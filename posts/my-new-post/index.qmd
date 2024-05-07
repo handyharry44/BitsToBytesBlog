@@ -1,9 +1,0 @@
----
-title: "my New Post"
-author: "Handy harry"
-date: "2024-05-07"
-categories: [news, gforth, C, embedded, iot]
-image: "image.jpg"
----
-
-This is a my new post!

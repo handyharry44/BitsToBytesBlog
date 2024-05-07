@@ -1,12 +1,26 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2024-05-04"
+title: "Welcome BitsToBytesBlog"
+author: "Handy Harry"
+date: "2024-05-07"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+It is launch time. Welcome! A start to a journey of discovery and exploration. We will look for the new, the strange and the unknown. We will have almost everyday something new for you.
+
+Our core subjects and discussions will be:
+
+-   Gforth Programming Language
+
+-   C Programming Language
+
+-   Linux
+
+We will also see how we can use them combined. Our mini-projects in the LC-Forth series will challenge your problem solving skills. Can this be a new way to program? This is what we would like to discover.
+
+Most of all, this is a fun and curious way to learn. No matter your skill level, here will be something of interest and you just might learn a think or two (maybe even more!).
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+A picture of a neat and well organized office and effeminately not mine!
+
+Email me if you have ideas, questions or very polite criticism. Go-Forth and see YOU! on the other side.
