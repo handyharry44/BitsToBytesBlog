@@ -11,13 +11,7 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
-        
-fontsize: 1.1em
-fontcolor: "#FFFFFF"  # Dark white text color
-linkcolor: "#007bff"  # Blue hyperlink color
-backgroundcolor: "#113f4d"  # Light teal-blue background
-mainfont: "Roboto, Lato"  # Retro font
-
+       
 format:
   html:
     theme: cosmo
